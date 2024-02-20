@@ -1,0 +1,11 @@
+const express = require("express")
+const cors = require("cors")
+const bodyParser = require("body-parser")
+const router = require("./router.js")
+const PORT = process.env.PORT || 8080
+const app = express()
+app.use(cors())
+app.use(bodyParser.urlencoded({ extended: false }))
+app.use(bodyParser.json("application/json"))
+app.use("/", router)
+app.listen(PORT, () => console.log("Server Online na Porta " + PORT))
