@@ -1,1 +1,31 @@
-{"Users":[{"name":"sandra cruz","age":29,"gender":"femenino","id":371.12340921739764},{"name":"sandra cruz","age":29,"gender":"femenino","id":9756.991865040663},{"name":"sandra cruz","age":29,"gender":"femenino","id":3068.970657119957},{"name":"marcos marinho","age":25,"gender":"masculino","id":8966.729257452866},{"name":"andreia marinho","age":26,"gender":"femenino","id":5568.318245226658},{"name":"otavio costa","age":26,"gender":"masculino","id":7538.5957707397765},{"name":"otavio costa","age":26,"gender":"masculino","id":1743.2701495547533}]}
+{
+    "movies": [
+        {
+            "title": "Kung Fu Panda 4",
+            "image": [
+                "https://br.web.img3.acsta.net/pictures/23/12/13/18/13/4592801.jpg",
+                "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2024/03/21/959389347-kung-fu-panda-4.jpg"
+            ],
+            "duration": "1h 34m",
+            "description": "Uma poderosa feiticeira que muda de forma coloca os olhos no Cajado da Sabedoria. Po de repente percebe que precisa de ajuda e logo descobre que heróis podem ser encontrados nos lugares mais inesperados."
+        },
+        {
+            "title": "Godzilla e Kong: O Novo Império",
+            "image": [
+                "https://www.topcineplex.com.br/app/filmes/949_c.jpg",
+                "https://d2d7ho1ae66ldi.cloudfront.net/ArquivoNoticias/940bf8ee-e155-11ee-aa78-d602bea5d5c0/IMG_7283.jpeg"
+            ],
+            "duration": "1h 55m",
+            "description": "Godzilla e o todo-poderoso Kong enfrentam uma ameaça colossal escondida nas profundezas do planeta, desafiando a sua própria existência e a sobrevivência da raça humana."
+        },
+        {
+            "title": "Guerra Civil",
+            "image": [
+                "https://bucket-emdiaes.s3.sa-east-1.amazonaws.com/wp-content/uploads/2024/04/GUERRA-CIVIL.jpg",
+                "https://jardimdasamericas.com.br/uploads/2024/04/capa-filme-guerra-civil-59b52-large.jpg"
+            ],
+            "duration": "1h 49m",
+            "description": "Uma família luta pela sobrevivência enquanto uma guerra civil assola a América."
+        }
+    ]
+}
